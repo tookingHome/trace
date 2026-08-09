@@ -1,0 +1,9 @@
+# TRACE build outputs
+**/bin/
+**/obj/
+**/publish/
+.vs/
+*.user
+*.suo
+windows/bin/
+windows/tmp_extract/

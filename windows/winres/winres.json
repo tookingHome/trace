@@ -1,0 +1,36 @@
+{
+  "RT_GROUP_ICON": {
+    "IDI_ICON1": {
+      "0000": "icon.ico"
+    }
+  },
+  "RT_MANIFEST": {
+    "#1": {
+      "0409": {
+        "identity": { "name": "Trace", "version": "0.1.0" },
+        "description": "TRACE",
+        "minimum-os": "win7",
+        "execution-level": "as invoker",
+        "dpi-awareness": "per monitor v2",
+        "use-common-controls-v6": true
+      }
+    }
+  },
+  "RT_VERSION": {
+    "#1": {
+      "0000": {
+        "fixed": { "file_version": "0.1.0.0", "product_version": "0.1.0.0" },
+        "info": {
+          "0409": {
+            "FileDescription": "TRACE - Thorough Uninstaller",
+            "FileVersion": "0.1.0",
+            "InternalName": "Trace",
+            "OriginalFilename": "Trace.exe",
+            "ProductName": "TRACE",
+            "ProductVersion": "0.1.0"
+          }
+        }
+      }
+    }
+  }
+}
