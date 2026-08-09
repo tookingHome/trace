@@ -24,7 +24,7 @@
 
 ## 下载
 
-请到 GitHub **[Releases](../../releases)** 下载最新 `Trace.exe`，双击即可使用。
+请到 GitHub **[Releases](https://github.com/tookingHome/trace/releases)** 下载最新 `Trace.exe`，双击即可使用。
 
 也可以自行编译（见下方）。
 
